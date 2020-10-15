@@ -1,0 +1,7 @@
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\bin\Debug\Moore's Law.exe.config
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\bin\Debug\Moore's Law.exe
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\bin\Debug\Moore's Law.pdb
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\obj\Debug\Moore's Law.csprojAssemblyReference.cache
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\obj\Debug\Moore's Law.csproj.CoreCompileInputs.cache
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\obj\Debug\Moore's Law.exe
+C:\Users\Batman\source\repos\Moore's Law\Moore's Law\obj\Debug\Moore's Law.pdb
